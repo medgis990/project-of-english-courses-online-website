@@ -1,0 +1,8 @@
+{
+  "name": "EnglishFlow Academy",
+  "description": "A modern, professional online English teaching platform featuring 1-on-1 live lessons, an AI-powered tutor, and comprehensive level testing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
